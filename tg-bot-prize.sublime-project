@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "LSP-pyright": {
+            "settings": {
+                "python.pythonPath": "${project_path}/.venv/bin/python",
+                "python.analysis.typeCheckingMode": "basic",
+                "python.analysis.autoSearchPaths": true,
+                "python.analysis.useLibraryCodeForTypes": true
+            }
+        }
+    }
+}
